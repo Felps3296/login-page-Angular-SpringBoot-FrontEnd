@@ -61,7 +61,7 @@ Abaixo estão alguns exemplos visuais das páginas e funcionalidades do projeto:
 
 Esta aplicação de front-end utiliza uma API separada para login e cadastro. Você pode encontrar o repositório da API no link abaixo:
 
-- **Repositório da API**: [API de Login e Cadastro](https://github.com/usuario/api-login)
+- **Repositório da API**: [API de Login e Cadastro](https://github.com/Felps3296/login-page-Angular-SpringBoot-BackEnd)
 
 ---
 
