@@ -13,11 +13,10 @@ Este projeto é uma página de login desenvolvida em **Angular**, com tratamento
 
 ---
 
-## 💻 Tecnologias Utilizadas
-
-- **Angular**: Framework utilizado para o desenvolvimento da aplicação.
-- **ngx-toastr**: Para exibir notificações.
-- **HTML & SCSS**: Estrutura e estilo da aplicação.
+### 💻 Front-End
+- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) **Angular**: Framework utilizado para criar a interface do usuário.
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML5**: Para a estruturação das páginas.
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) **CSS3**: Para estilização das páginas e responsividade.
 
 ---
 
