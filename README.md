@@ -29,7 +29,7 @@ Este projeto é uma página de login desenvolvida em **Angular**, com tratamento
   - Senha: Verifica se o campo não está vazio.
 - **Tratamento de Erros**:
   - Credenciais inválidas acionam uma notificação do `ngx-toastr` para informar o usuário.
-  - Exemplo de mensagem de erro: *"E-mail ou senha inválidos."*
+  - Exemplo de mensagem de erro: *"Unexpected error! Try again later"*
 
 ---
 
