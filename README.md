@@ -6,7 +6,7 @@ Este projeto é uma página de login desenvolvida em **Angular**, com tratamento
 
 ## ✨ Funcionalidades
 
-- **Página de Login**: Permite que os usuários façam login com e-mail e senha.
+- **Página de Login**: Realizar login com e-mail e senha.
 - **Tratamento de Erros**: Exibe mensagens de erro usando o `ngx-toastr` para logins inválidos ou erros do lado do servidor.
 - **Página de Cadastro**: Permite que novos usuários se registrem.
 - **Validação de Formulários**: Inclui validação no lado do cliente para os formulários de login e cadastro.
