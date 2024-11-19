@@ -63,6 +63,14 @@ Esta aplicação de front-end utiliza uma API separada para login e cadastro. Vo
 
 - **Repositório da API**: [API de Login e Cadastro](https://github.com/usuario/api-login)
 
+---
+
+## 🎨 Design no Figma
+
+🔗 **[Link para o design no Figma](https://www.figma.com/design/7T1wkErczpMOBeqtpVjMSb/Login-Page-Design?node-id=6-920&node-type=canvas&t=GQI4daelLtGQql9u-0)**
+
+---
+
 <h2>✍️ Autor</h2>
 
 <a href="https://github.com/Felps3296">
