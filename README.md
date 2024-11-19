@@ -2,6 +2,8 @@
 
 Este projeto é uma página de login desenvolvida em **Angular**, com tratamento de erros para tentativas de login inválidas e uma página de cadastro. Utiliza a biblioteca `ngx-toastr` para notificações.
 
+---
+
 ### 💻 Front-End
 - ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) **Angular**: Framework utilizado para criar a interface do usuário.
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML5**: Para a estruturação das páginas.
